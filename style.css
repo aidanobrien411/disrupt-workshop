@@ -1,0 +1,45 @@
+h1 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+
+}
+
+#trivia-question {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 34px;
+}
+
+#trivia-answer {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 40px;
+    color: #384EC1;
+}
+
+#trivia-button {
+    background: #E7EACA;
+    border-radius: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    padding: 15px;
+}
+
+.hide {
+    dsiplay:none
+}
+
+.show {
+    
+}
